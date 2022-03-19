@@ -1,4 +1,4 @@
-# collaborative-whiteboard
+# Collaborative Whiteboard
 
 ## Installation
 
