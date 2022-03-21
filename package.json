@@ -6,15 +6,11 @@
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nyxtom/map.git"
+    "url": "git+https://github.com/ajkmr7/collaborative-whiteboard.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/nyxtom/map/issues"
-  },
-  "homepage": "https://github.com/nyxtom/map#readme",
   "dependencies": {
     "bluebird": "^3.7.2",
     "dotenv": "^8.6.0",
